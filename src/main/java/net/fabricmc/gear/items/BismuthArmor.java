@@ -40,7 +40,7 @@ public class BismuthArmor implements ArmorMaterial {
 
     @Override
     public String getName() {
-        return "gear:bismuth";
+        return "bismuth";
     }
 
     @Override
