@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "combat",
+  "pattern": [
+    "###",
+    "# #",
+    "   "
+  ],
+  "key": {
+    "#" : {
+      "item" : "gearmod:bismuth_bar"
+    }
+  },
+  "result": {
+    "item": "gearmod:bismuth_helmet"
+  }
+}
