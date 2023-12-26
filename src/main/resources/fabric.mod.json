@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "gearmod",
+  "version": "${version}",
+
+  "name": "Gear",
+  "description": "A comprehensive tech mod for Minecraft Fabric",
+  "authors": [
+    "Sheev"
+  ],
+
+  "license": "CC0-1.0",
+  "icon": "assets/gearmod/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.fabricmc.gear.Main"
+    ]
+  },
+  "mixins": [
+    "gearmod.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
