@@ -4,14 +4,14 @@
   "pattern": [
     "###",
     "# #",
-    "   "
+    "# #"
   ],
   "key": {
-    "#" : {
-      "item" : "gearmod:bismuth_bar"
+    "#": {
+      "item": "gearmod:bismuth_bar"
     }
   },
   "result": {
-    "item": "gearmod:bismuth_helmet"
+    "item": "gearmod:bismuth_leggings"
   }
 }
