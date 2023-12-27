@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "gearmod:bismuth_ore"
+  },
+  "result": "gearmod:bismuth_bar",
+  "experience": 0.7,
+  "cookingtime": 200
+}

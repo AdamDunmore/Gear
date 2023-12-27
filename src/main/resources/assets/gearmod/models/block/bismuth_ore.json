@@ -1,0 +1,6 @@
+{
+  "parent" : "block/cube_all",
+  "textures" : {
+    "all" : "gearmod:block/bismuth_ore_block"
+  }
+}
